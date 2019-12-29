@@ -61,7 +61,7 @@ render(){
             <div className="meme">
                 
                 <h1 className="top">{this.state.topText}</h1> 
-                <img src={this.state.randomimg} />
+                <img src={this.state.randomimg} height="100" width="100"/>
                 <h1 className="bottom">{this.state.bottomText}</h1> 
                                     
             </div>

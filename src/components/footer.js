@@ -3,7 +3,9 @@ import React from "react"
 function footer(){
     return(
         <footer>
-        <h1>footer</h1>
+        <p>MemeGenerator is made using Frontend framework React.js.
+           It is just a basic app that uses React basics and recieves images from Exteral API.
+        </p>
         </footer>
     )
 }
