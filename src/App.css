@@ -40,10 +40,10 @@ form>input{
   width: 90%;
   padding:5px;
   margin: 20px;
-  font-size: large;
+  font-size: 16px;
   border:none; 
   border-bottom:1px solid #161569;
-
+  font-size: large;
   background-color: inherit;
 }
 form>button{
@@ -74,16 +74,18 @@ form>button{
 }
 
 .top{
-  top:0;
-  left: 50%;
+  top:10;
+  left: 30%;
   position: absolute;
+  font-size: 16px;
 
 }
 .bottom{
-  bottom:20%;
-  left: 50%;
+  bottom:25%;
+  left: 30%;
   position: absolute;
   word-wrap: normal;
+  font-size: 16px;
 }
 
 footer{
